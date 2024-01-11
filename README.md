@@ -7,6 +7,8 @@
 - 📫 How to reach me: guantaicollins115@gmail.com
 
 Connect with me:
+@CollinsGuantai Collins Guantai
 
 
 Languages and Tools:
+bootstrap css3 express git html5 java javascript laravel linux mongodb mysql nestjs nextjs nodejs php postman react redux tailwind vuejs vuetify
