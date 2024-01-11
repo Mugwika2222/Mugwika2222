@@ -11,4 +11,4 @@ Connect with me:
 
 
 Languages and Tools:
-bootstrap css3 express git html5 java javascript laravel linux mongodb mysql nestjs nextjs nodejs php postman react redux tailwind vuejs vuetify
+bootstrap css3 express git html5  javascript laravel  mongodb mysql  nodejs php postman react  tailwind vuejs vuetify
