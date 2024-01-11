@@ -6,3 +6,7 @@
 - 💬 Ask me about html css and js
 - 📫 How to reach me: guantaicollins115@gmail.com
 
+Connect with me:
+
+
+Languages and Tools:
